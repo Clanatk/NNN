@@ -4,3 +4,7 @@ C:\Users\kaatz\Source\Repos\Clanatk\NNN\AdventureWorks2022\AdventureWorks2022\bi
 C:\Users\kaatz\Source\Repos\Clanatk\NNN\AdventureWorks2022\AdventureWorks2022\obj\Debug\AdventureWorks2022.sqlproj.AssemblyReference.cache
 C:\Users\kaatz\Source\Repos\Clanatk\NNN\AdventureWorks2022\AdventureWorks2022\obj\Debug\AdventureWorks2022.dll
 C:\Users\kaatz\Source\Repos\Clanatk\NNN\AdventureWorks2022\AdventureWorks2022\obj\Debug\AdventureWorks2022.pdb
+C:\Users\kaatz\Source\Repos\Clanatk\NNN\AdventureWorks2022\AdventureWorks2022\obj\Debug\Model.xml
+C:\Users\kaatz\Source\Repos\Clanatk\NNN\AdventureWorks2022\AdventureWorks2022\obj\Debug\refactor.xml
+C:\Users\kaatz\Source\Repos\Clanatk\NNN\AdventureWorks2022\AdventureWorks2022\obj\Debug\postdeploy.sql
+C:\Users\kaatz\Source\Repos\Clanatk\NNN\AdventureWorks2022\AdventureWorks2022\obj\Debug\predeploy.sql
