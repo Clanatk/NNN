@@ -1,0 +1,6 @@
+C:\Users\kaatz\Source\Repos\Clanatk\NNN\AdventureWorks2022\AdventureWorks2022\bin\Debug\AdventureWorks2022.dacpac
+C:\Users\kaatz\Source\Repos\Clanatk\NNN\AdventureWorks2022\AdventureWorks2022\bin\Debug\AdventureWorks2022.dll
+C:\Users\kaatz\Source\Repos\Clanatk\NNN\AdventureWorks2022\AdventureWorks2022\bin\Debug\AdventureWorks2022.pdb
+C:\Users\kaatz\Source\Repos\Clanatk\NNN\AdventureWorks2022\AdventureWorks2022\obj\Debug\AdventureWorks2022.sqlproj.AssemblyReference.cache
+C:\Users\kaatz\Source\Repos\Clanatk\NNN\AdventureWorks2022\AdventureWorks2022\obj\Debug\AdventureWorks2022.dll
+C:\Users\kaatz\Source\Repos\Clanatk\NNN\AdventureWorks2022\AdventureWorks2022\obj\Debug\AdventureWorks2022.pdb
