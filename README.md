@@ -18,4 +18,4 @@ For instructions on how to install this on your home PC: https://learn.microsoft
     - TODO: Setup Instructions
 
 ## Github Usage
-- Each person should maintain their own branch. Committing changes directly to the main branch is not permitted.
+- Each person should maintain their own branch. Committing changes directly to the main branch is not permitted!
