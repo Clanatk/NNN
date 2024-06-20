@@ -11,8 +11,8 @@ For instructions on how to install this on your home PC: https://learn.microsoft
 
 ## Software Prerequisites
 - Visual Studio 2022 (Community is free)
--- Include: Data Storage and Processing
+    - Include: Data Storage and Processing
   ![image](https://github.com/Clanatk/NNN/assets/33404493/7705e83d-7e80-4b1a-ad10-d63be4fc023d)
 
 - SQL Server 2022 (Developer Edition)
--- TODO: Setup Instructions
+    - TODO: Setup Instructions
