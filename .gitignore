@@ -2,6 +2,11 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+# Ignore bin and obj folders
+bin/*
+obj/*
+
+# Ignore .vs-specific files
 /.vs
 /.vs/NNN/FileContentIndex
 /AdventureWorks2022/.vs
